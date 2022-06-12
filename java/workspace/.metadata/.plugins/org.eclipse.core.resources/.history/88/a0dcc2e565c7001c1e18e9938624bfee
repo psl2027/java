@@ -1,0 +1,32 @@
+package arraylist;
+
+import java.util.ArrayList;
+
+
+public class student_Data {
+
+	public static void main(String[] args) {
+
+		ArrayList<Student> list = new ArrayList<Student>();
+		
+		for( int i = 0; i<10; i++ ) {
+			Student s = new Student("학생" + i, "010-1234-567" + i, "서울" + i);
+			list.add(s);			
+
+		}
+		
+//		for( int i = 0; i<list.size(); i++ ) {
+//
+//			Student item = list.get(i);
+//			System.out.println( list.get(i) );
+//			System.out.println( item.toString() );
+//			System.out.println("----------------");
+//		}
+		Student value = list.get(4);
+		System.out.println("5번째 요소의 값 : " + value);
+		
+		
+		list.remove(4);
+
+	}
+}

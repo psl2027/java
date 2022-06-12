@@ -1,0 +1,14 @@
+package practice_Num1;
+
+public class Main01 {
+	int num1 = 5;
+	int num2 = 6;
+	
+	int result1 = num1 + num2;
+	System.out.println("result1 : " + result1);
+	
+	
+	
+	
+	
+}

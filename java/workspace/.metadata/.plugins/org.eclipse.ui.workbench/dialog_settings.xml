@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="598"/>
+		<item key="DIALOG_Y_ORIGIN" value="166"/>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="dialogHeight" value="-1"/>
+		<item key="dialogWidth" value="-1"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="D:\0900_GB_PSL\java\practice\세번째 시험\세번째 시험.zip"/>
+			<item value="C:\Users\Owner\Downloads\test06\test2.zip"/>
+			<item value="D:\0900_GB_PSL\java\1~3주차\day04\day04\day04.zip"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="D:\0900_GB_PSL\java\practice\박소림_4rdTest2.zip"/>
+			<item value="D:\0900_GB_PSL\java\practice\박소림_4rdTest.zip"/>
+			<item value="D:\0900_GB_PSL\java\practice\박소림_3rdTest(2).zip"/>
+			<item value="D:\0900_GB_PSL\java\practice\박소림_3rdTest.zip"/>
+			<item value="D:\0900_GB_PSL\java\practice\박소림_프로젝트.zip"/>
+			<item value="D:\0900_GB_PSL\java\practice\박소림_두번째테스트_2.zip"/>
+			<item value="D:\0900_GB_PSL\java\practice\박소림_두번째테스트.zip"/>
+			<item value="D:\0900_GB_PSL\java\practice\박소림_테스트두번째(2).zip"/>
+			<item value="D:\0900_GB_PSL\java\practice\박소림_테스트두번째.zip"/>
+			<item value="D:\0900_GB_PSL\java\practice\test1.zip"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\Owner\Downloads\test06"/>
+			<item value="D:\0900_GB_PSL\java\mProject_F"/>
+		</list>
+	</section>
+</section>

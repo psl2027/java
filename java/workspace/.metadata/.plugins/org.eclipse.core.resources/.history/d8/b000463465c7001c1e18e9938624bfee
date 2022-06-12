@@ -1,0 +1,25 @@
+package arraylist;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class student_Data {
+
+	public static void main(String[] args) {
+
+		ArrayList<Student> list = new ArrayList<Student>();
+		Scanner sc;
+		
+		list.add(new Student("김자바","010-1111-0111","서울"));
+		list.add(new Student("이디비","010-1111-0112","경기도"));
+		list.add(new Student("박기트","010-1111-0113","강원도"));
+		list.add(new Student("홍길동","010-1111-0114","충청북도"));
+		list.add(new Student("강아지","010-1111-0115","경상남도"));
+		list.add(new Student("고양이","010-1111-0116","경상북도"));
+		list.add(new Student("악어","010-1111-0117","충청남도"));
+		list.add(new Student("악어","010-1111-0118","남양주"));
+		list.add(new Student("악어","010-1111-0119","전라남도"));
+		list.add(new Student("악어","010-1111-0110","전라북도"));
+
+	}
+}

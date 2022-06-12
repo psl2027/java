@@ -1,0 +1,58 @@
+public class solimHouse {
+	private String name;
+	private int age;
+	/*public solimHouse( String name ){
+	this.name = name;
+	
+	}*/
+	
+	public solimHouse (int age) {
+	this.age = age;
+	}
+	
+	
+	
+}
+
+
+
+public class solimcard extends solimHouse{
+	
+	private int ag;
+	
+	public solimcard(int age) {
+	this.ag = age;
+	}
+	
+	public int getsolimage(){
+	return this.ag;
+	}
+	
+	public void setsolimage(int age) {
+	this.ag = age;
+	}
+	
+}
+
+public class prt1 {
+
+	public static void main(String[] args) {
+		String name;
+		int age;
+		String intro;
+		String buffer;
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("이름을 입력하세요");
+		name = sc.next();
+		System.out.println("나이를 입력하세요");
+		age = sc.nextInt();
+		
+		buffer = sc.nextLine();
+		intro = sc.nextLine();
+		
+		System.out.println("이름은 "+name+"나이는 "+age+"살 입니다");
+		System.out.println(intro);
+	}
+
+}

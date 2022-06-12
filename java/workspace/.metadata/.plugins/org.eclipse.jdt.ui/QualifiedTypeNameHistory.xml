@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.concurrent.Flow.Publisher"/>
+    <fullyQualifiedTypeName name="java.lang.invoke.SwitchPoint"/>
+    <fullyQualifiedTypeName name="object.Student"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="object.HelloWorld"/>
+    <fullyQualifiedTypeName name="object.StudentJava"/>
+    <fullyQualifiedTypeName name="object.Article"/>
+    <fullyQualifiedTypeName name="hiding.StudentJava2"/>
+    <fullyQualifiedTypeName name="hiding.Member"/>
+    <fullyQualifiedTypeName name="hiding.Article"/>
+    <fullyQualifiedTypeName name="override.Army"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="overload.Hello"/>
+    <fullyQualifiedTypeName name="overload.Article"/>
+    <fullyQualifiedTypeName name="Static.Article"/>
+    <fullyQualifiedTypeName name="com.koreait.shop.board.Article"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthSplitPaneUI"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="patten.RegexHelper"/>
+    <fullyQualifiedTypeName name="Q2.Student"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.awt.SystemColor"/>
+    <fullyQualifiedTypeName name="arraylist.Student"/>
+</qualifiedTypeNameHistroy>
